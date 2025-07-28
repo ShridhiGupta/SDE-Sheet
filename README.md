@@ -86,5 +86,3 @@ SDE-Sheet/
 
 ## 📬 Let’s Connect!
 📌 If you find this helpful, consider giving the repo a ⭐ and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shridhi-gupta-3826s) or follow for more updates!
-
-```
