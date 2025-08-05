@@ -19,31 +19,31 @@ All problems are implemented in **Java** with clean code and inline explanations
 | 📁 Topic                            | ✅ Completed | 📌 Total Questions |
 |-------------------------------------|--------------|---------------------|
 | **Arrays**                          | ✅ 6 / 6      | 6                   |
-| Arrays Part-II                      | ⏳ 5 / 6      | 6                   |
-| Arrays Part-III                     | ⏳ 4 / 6      | 6                   |
-| Arrays Part-IV                      | ⏳ 1 / 6      | 6                   |
+| **Arrays Part-II**                  | ⏳ 5 / 6      | 6                   |
+| **Arrays Part-III**                 | ⏳ 4 / 6      | 6                   |
+| **Arrays Part-IV**                  | ⏳ 1 / 6      | 6                   |
 | **Linked List**                     | ✅ 6 / 6      | 6                   |
-| Linked List Part-II                 | ⏳ 5 / 6      | 6                   |
-| Linked List and Arrays              | ⏳ 4 / 6      | 6                   |
+| **Linked List Part-II**             | ⏳ 5 / 6      | 6                   |
+| **Linked List and Arrays**          | ⏳ 4 / 6      | 6                   |
 | **Stack & Queue**                   | ⏳ 1 / 7      | 7                   |
-| Stack & Queue Part-II              | ⏳ 0 / 10     | 10                  |
+| **Stack & Queue Part-II**           | ⏳ 0 / 10     | 10                  |
 | **String**                          | ⏳ 5 / 6      | 6                   |
-| String Part-II                      | ⏳ 2 / 6      | 6                   |
+| **String Part-II**                  | ⏳ 2 / 6      | 6                   |
 | **Recursion**                       | ⏳ 5 / 6      | 6                   |
-| Recursion and Backtracking          | ⏳ 0 / 6      | 6                   |
+| **Recursion and Backtracking**      | ⏳ 0 / 6      | 6                   |
 | **Greedy Algorithm**                | ⏳ 2 / 6      | 6                   |
 | **Binary Search**                   | ⏳ 2 / 8      | 8                   |
 | **Heaps**                           | ⏳ 0 / 6      | 6                   |
 | **Binary Tree**                     | ⏳ 0 / 12     | 12                  |
-| Binary Tree Part-II                 | ⏳ 0 / 8      | 8                   |
-| Binary Tree Part-III               | ⏳ 0 / 7      | 7                   |
-| Binary Trees [Miscellaneous]        | ⏳ 0 / 6      | 6                   |
+| **Binary Tree Part-II**             | ⏳ 2 / 8      | 8                   |
+| **Binary Tree Part-III**            | ⏳ 0 / 7      | 7                   |
+| **Binary Trees [Miscellaneous]**    | ⏳ 0 / 6      | 6                   |
 | **Binary Search Tree (BST)**        | ⏳ 0 / 7      | 7                   |
-| Binary Search Tree Part-II          | ⏳ 0 / 8      | 8                   |
+| **Binary Search Tree Part-II**      | ⏳ 0 / 8      | 8                   |
 | **Graph**                           | ⏳ 0 / 12     | 12                  |
-| Graph Part-II                       | ⏳ 0 / 6      | 6                   |
+| **Graph Part-II**                   | ⏳ 0 / 6      | 6                   |
 | **Dynamic Programming (DP)**        | ⏳ 0 / 7      | 7                   |
-| Dynamic Programming Part-II         | ⏳ 0 / 8      | 8                   |
+| **Dynamic Programming Part-II**     | ⏳ 0 / 8      | 8                   |
 | **Trie**                            | ⏳ 0 / 7      | 7                   |
 
 
