@@ -34,8 +34,8 @@ All problems are implemented in **Java** with clean code and inline explanations
 | **Greedy Algorithm**                | ⏳ 2 / 6      | 6                   |
 | **Binary Search**                   | ⏳ 2 / 8      | 8                   |
 | **Heaps**                           | ⏳ 0 / 6      | 6                   |
-| **Binary Tree**                     | ⏳ 0 / 12     | 12                  |
-| **Binary Tree Part-II**             | ⏳ 2 / 8      | 8                   |
+| **Binary Tree**                     | ⏳ 2 / 12     | 12                  |
+| **Binary Tree Part-II**             | ⏳ 0 / 8      | 8                   |
 | **Binary Tree Part-III**            | ⏳ 0 / 7      | 7                   |
 | **Binary Trees [Miscellaneous]**    | ⏳ 0 / 6      | 6                   |
 | **Binary Search Tree (BST)**        | ⏳ 0 / 7      | 7                   |
