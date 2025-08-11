@@ -25,4 +25,20 @@ Each file includes:
 ---
 
 ## 📂 Files  
+(i) InorderTraversal.java
+(ii) PreorderTraversal.java
+(iii) PostorderTraversal.java
+(iv) LevelOrderTraversal.java
+(v) HeightOfBinaryTree.java
+(vi) CheckBalancedTree.java
+(vii) DiameterOfBinaryTree.java
+(viii) IdenticalTrees.java
+(ix) ZigZagTraversal.java
+(x) BoundaryTraversal.java
+(xi) VerticalOrderTraversal.java
+(xii) TopView.java
 
+---
+
+⭐ **Star the repo** if you find it helpful!  
+💬 Connect on **LinkedIn** for updates and discussions.
