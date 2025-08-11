@@ -9,7 +9,7 @@ Each file includes:
 
 ---
 
-## 🔍 Problems Covered (0/12)  
+## 🔍 Problems Covered (0/6)  
 - Set Matrix Zeroes 
 - Pascal's Triangle 
 - Next Permutation
