@@ -9,7 +9,7 @@ Each file includes:
 
 ---
 
-## 🔍 Problems Covered (0/12)  
+## 🔍 Problems Covered (0/6)  
 - Rotate Matrix  
 - Merge Overlapping Subintervals
 - Merge two sorted arrays without extra space 
