@@ -9,7 +9,7 @@ Each file includes:
 
 ---
 
-## 🔍 Problems Covered (0/12)  
+## 🔍 Problems Covered (0/6)  
 - Search in a 2D Matrix  
 - Pow(x, n) 
 - Majority Element (>n/2 times)
