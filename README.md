@@ -25,7 +25,7 @@ All problems are implemented in **Java** with clean code and inline explanations
 | **Linked List**                     | ✅ 6 / 6      | 6                   |
 | **Linked List Part-II**             | ⏳ 5 / 6      | 6                   |
 | **Linked List and Arrays**          | ⏳ 4 / 6      | 6                   |
-| **Stack & Queue**                   | ⏳ 1 / 7      | 7                   |
+| **Stack & Queue**                   | ✅ 7 / 7      | 7                   |
 | **Stack & Queue Part-II**           | ⏳ 0 / 10     | 10                  |
 | **String**                          | ⏳ 5 / 6      | 6                   |
 | **String Part-II**                  | ⏳ 2 / 6      | 6                   |
